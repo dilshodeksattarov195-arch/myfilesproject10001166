@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpelete",
+        "uuid": 6865408,
+        "checksum": "jq7mx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
